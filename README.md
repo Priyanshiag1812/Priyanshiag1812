@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Inventory Mangement System](https://github.com/Priyanshiag1812/Inventory_Management.git)
+- I’m currently working on [Inventory Mangement System](https://github.com/Priyanshiag1812/Inventory_Management.git)
 
-- 🌱 I’m currently learning **React , Node.js**
+- I’m currently learning **React , Node.js**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- How to reach me **priyanshistartup2003@gmail.com**
 
-- 📫 How to reach me **priyanshistartup2003@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Priyanshiag1812/Resume/blob/main/CV.docx](https://github.com/Priyanshiag1812/Resume/blob/main/CV.docx)
+- Know about my experiences [https://github.com/Priyanshiag1812/Resume/blob/main/CV.docx](https://github.com/Priyanshiag1812/Resume/blob/main/CV.docx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
