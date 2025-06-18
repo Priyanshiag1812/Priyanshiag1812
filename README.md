@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on Inventory Mangement System<br><br>I’m currently learning React , Node.js<br><br>How to reach me priyanshistartup2003@gmail.com<br><br>Know about my experiences https://github.com/Priyanshiag1812/Resume/blob/main/CV.docx
+# About Me:
+I’m currently working on Inventory Mangement System<br><br>I’m currently learning React , Node.js , Express.js , Mongo DB<br><br>How to reach me priyanshistartup2003@gmail.com<br><br>Know about my experiences https://github.com/Priyanshiag1812/Resume/blob/main/CV.docx
 
 
 # 💻 Tech Stack:
